@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MIMXRT1062DVL6A")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVL6A")(options "")(descr ""))
+  (lib (name "MIMXRT1062DVJ6B")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVJ6B/MIMXRT1062DVJ6B.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+U1,ATmega328-A,TQFP-32_7x7mm_P0.8mm,117.45,-95.875,0.0,top
+Y1,RESONATOR-16MHZSMD_3.2X1.3,Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm,106.375,-102.525,180.0,top

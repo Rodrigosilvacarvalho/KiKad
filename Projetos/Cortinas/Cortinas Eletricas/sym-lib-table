@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ATTINY44-20PU")(type "Legacy")(uri "${KIPRJMOD}/LIB/ATTINY44-20PU.lib")(options "")(descr ""))
+)

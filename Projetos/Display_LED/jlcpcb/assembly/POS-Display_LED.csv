@@ -1,0 +1,28 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100uf 25v,CP_Elec_6.3x5.4,346.964,-136.144,0.0,top
+C2,470pf,C_0805_2012Metric,339.852,-119.38,90.0,top
+C3,"0,01pf",C_0805_2012Metric,320.03,-132.01,0.0,bottom
+C4,"0,01pf",C_0805_2012Metric,276.606,-133.604,0.0,bottom
+C5,"0,01pf",C_0805_2012Metric,276.266,-148.624,0.0,bottom
+C6,"0,01pf",C_0805_2012Metric,320.04,-129.286,0.0,bottom
+D1,1N4007,D_MicroMELF,340.614,-143.764,-90.0,top
+J1,Jack-DC,BarrelJack_Horizontal,342.8,-147.6,180.0,top
+J2,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,289.972,-147.574,90.0,bottom
+J3,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,79.248,-141.219,180.0,top
+J4,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,206.248,-141.219,180.0,top
+J5,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,209.296,-141.219,180.0,top
+J6,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,336.36,-141.219,180.0,top
+J7,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,334.264,-150.119,180.0,top
+J8,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,273.558,-118.628,0.0,top
+Q1,BC848,SOT-23,318.516,-140.97,0.0,bottom
+Q2,2SC4213,SOT-323_SC-70,288.616,-131.206,0.0,bottom
+Q3,2SC4213,SOT-323_SC-70,284.298,-131.116,180.0,bottom
+R1,1k,R_0805_2012Metric,317.5,-144.526,90.0,bottom
+R2,10k,R_0805_2012Metric,316.748,-130.618,90.0,bottom
+R3,10k,R_0805_2012Metric,286.458,-133.53,0.0,bottom
+R4,10k,R_0805_2012Metric,287.092,-128.704,180.0,bottom
+U1,LM7805,SOT-223,346.106,-128.27,0.0,top
+U2,AMS1117-3.3,SOT-223-3_TabPin2,346.106,-120.202,0.0,top
+U3,ESP32-WROOM-32,ESP32-WROOM-32,304.546,-137.16,180.0,bottom
+U4,CH340G,SOIC-16_3.9x9.9mm_P1.27mm,286.512,-139.446,90.0,bottom
+Y1,Crystal_GND2_Small,Crystal_HC49-U-3Pin_Vertical,276.352,-138.52,-90.0,bottom

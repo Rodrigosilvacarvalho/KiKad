@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "8-X-8-LED-Matrix-rescue")(type "Legacy")(uri "${KIPRJMOD}/8 X 8 LED Matrix-rescue.lib")(options "")(descr ""))
+)
